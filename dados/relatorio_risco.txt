@@ -1,0 +1,12 @@
+Matriz de confusao (risco de quebra):
+[[ 67  52]
+ [  4 127]]
+
+              precision    recall  f1-score   support
+
+          ok      0.944     0.563     0.705       119
+       risco      0.709     0.969     0.819       131
+
+    accuracy                          0.776       250
+   macro avg      0.827     0.766     0.762       250
+weighted avg      0.821     0.776     0.765       250

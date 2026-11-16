@@ -1,0 +1,6 @@
+,MAE,RMSE,R2
+baseline_media_hist,907.592,1003.971,0.095
+baseline_ano_anterior,1195.876,1476.349,-0.956
+Ridge,758.043,893.655,0.283
+RandomForest,650.941,850.67,0.351
+GradientBoosting,598.182,770.976,0.467
