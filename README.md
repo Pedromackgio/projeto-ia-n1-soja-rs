@@ -19,11 +19,6 @@ antecipadamente a produtividade municipal da soja no Rio Grande do Sul e
 sinalizar o risco de o rendimento ficar abaixo da referência histórica de cada
 município. **Opção: Framework** (Python + pandas/NumPy + Matplotlib + scikit-learn).
 
-## Vídeo de apresentação (N2)
-
-> A ser inserido pelo grupo após gravação. Roteiro em
-> [`src/04_youtube_roteiro.md`](src/04_youtube_roteiro.md).
-
 ## Resultados principais (N2)
 
 Validação temporal — treino ≤ 2018, teste 2019–2023 (250 obs.).
@@ -55,8 +50,7 @@ Validação temporal — treino ≤ 2018, teste 2019–2023 (250 obs.).
 ├── src/
 │   ├── analise_exploratoria_soja_rs.py    Script N1
 │   ├── 02_build_features.py               Atributos agrometeorológicos N2
-│   ├── 03_train_models.py                 Treino + avaliação + gráficos N2
-│   └── 04_youtube_roteiro.md              Roteiro do vídeo de 5 min
+│   └── 03_train_models.py                 Treino + avaliação + gráficos N2
 ├── dados/
 │   ├── README.md
 │   ├── sidra_1612_soja_rs_bruto.csv
